@@ -1,0 +1,22 @@
+{
+  "name": "node-hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sologgfun/node-hapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sologgfun/node-hapi/issues"
+  },
+  "homepage": "https://github.com/sologgfun/node-hapi#readme",
+  "dependencies": {
+    "hapi": "^16.6.3"
+  }
+}
